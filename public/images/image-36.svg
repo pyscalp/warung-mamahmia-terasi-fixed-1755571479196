@@ -1,0 +1,13 @@
+<!-- public/images/lele-goreng-terasi.svg -->
+<svg width="400" height="300" viewBox="0 0 400 300" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect x="0" y="0" width="400" height="300" fill="none"/>
+<path d="M80 150 C80 100, 320 100, 320 150 C320 200, 80 200, 80 150 Z" fill="#FFFFFF" stroke="#FF8C00" stroke-width="5"/>
+<path d="M100 150 C100 120, 300 120, 300 150 C300 180, 100 180, 100 150 Z" fill="#FFD700"/>
+<path d="M120 150 C120 130, 280 130, 280 150 C280 170, 120 170, 120 150 Z" fill="#DC143C"/>
+<circle cx="150" cy="140" r="5" fill="#FFFFFF"/>
+<circle cx="250" cy="140" r="5" fill="#FFFFFF"/>
+<path d="M150 160 L160 170 L140 170 Z" fill="#FFFFFF"/>
+<path d="M250 160 L260 170 L240 170 Z" fill="#FFFFFF"/>
+<text x="200" y="200" font-family="Arial, sans-serif" font-size="25" font-weight="bold" fill="#FF8C00" text-anchor="middle">LELE GORENG</text>
+<text x="200" y="230" font-family="Arial, sans-serif" font-size="20" fill="#DC143C" text-anchor="middle">SAMBAL TERASI</text>
+</svg>
