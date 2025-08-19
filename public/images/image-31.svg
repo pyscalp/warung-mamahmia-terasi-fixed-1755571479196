@@ -1,0 +1,13 @@
+<!-- public/images/terasi-udang.svg -->
+<svg width="400" height="300" viewBox="0 0 400 300" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect x="0" y="0" width="400" height="300" fill="none"/>
+<rect x="50" y="75" width="300" height="150" rx="20" fill="#DC143C"/>
+<rect x="60" y="85" width="280" height="130" rx="15" fill="#FF8C00"/>
+<path d="M100 100 C120 80, 180 80, 200 100 C220 80, 280 80, 300 100 L300 180 C280 200, 220 200, 200 180 C180 200, 120 200, 100 180 Z" fill="#FFD700"/>
+<circle cx="120" cy="120" r="10" fill="#DC143C"/>
+<circle cx="180" cy="120" r="10" fill="#DC143C"/>
+<circle cx="220" cy="120" r="10" fill="#DC143C"/>
+<circle cx="280" cy="120" r="10" fill="#DC143C"/>
+<text x="200" y="160" font-family="Arial, sans-serif" font-size="30" font-weight="bold" fill="#FFFFFF" text-anchor="middle">TERASI</text>
+<text x="200" y="195" font-family="Arial, sans-serif" font-size="20" fill="#FFFFFF" text-anchor="middle">UDANG PILIHAN</text>
+</svg>
