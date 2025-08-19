@@ -1,0 +1,12 @@
+<!-- public/images/sambal-terasi.svg -->
+<svg width="400" height="300" viewBox="0 0 400 300" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect x="0" y="0" width="400" height="300" fill="none"/>
+<path d="M100 150 C100 100, 300 100, 300 150 L280 250 C280 270, 120 270, 120 250 Z" fill="#FFFFFF" stroke="#DC143C" stroke-width="5"/>
+<path d="M120 160 C120 120, 280 120, 280 160 L260 240 C260 250, 140 250, 140 240 Z" fill="#DC143C"/>
+<circle cx="200" cy="180" r="20" fill="#FFD700"/>
+<circle cx="160" cy="200" r="15" fill="#FF8C00"/>
+<circle cx="240" cy="200" r="15" fill="#FF8C00"/>
+<path d="M200 180 L220 160 L200 140 L180 160 Z" fill="#FFFFFF"/>
+<text x="200" y="210" font-family="Arial, sans-serif" font-size="25" font-weight="bold" fill="#FFFFFF" text-anchor="middle">SAMBAL</text>
+<text x="200" y="240" font-family="Arial, sans-serif" font-size="20" fill="#FFFFFF" text-anchor="middle">TERASI</text>
+</svg>
