@@ -1,0 +1,11 @@
+<svg width="400" height="300" viewBox="0 0 400 300" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect x="0" y="0" width="400" height="300" fill="none"/>
+<rect x="50" y="100" width="300" height="150" rx="20" fill="#FFFFFF" stroke="#DC143C" stroke-width="5"/>
+<path d="M100 150 C120 120, 180 120, 200 150 C220 120, 280 120, 300 150 L300 200 C280 230, 220 230, 200 200 C180 230, 120 230, 100 200 Z" fill="#FF8C00"/>
+<path d="M150 170 C150 160, 250 160, 250 170 L250 190 C250 200, 150 200, 150 190 Z" fill="#FFD700"/>
+<circle cx="170" cy="180" r="10" fill="#DC143C"/>
+<circle cx="230" cy="180" r="10" fill="#DC143C"/>
+<text x="200" y="180" font-family="Arial, sans-serif" font-size="25" font-weight="bold" fill="#FFFFFF" text-anchor="middle">AYAM</text>
+<text x="200" y="210" font-family="Arial, sans-serif" font-size="20" fill="#FFFFFF" text-anchor="middle">BAKAR</text>
+<text x="200" y="240" font-family="Arial, sans-serif" font-size="18" fill="#FFFFFF" text-anchor="middle">TERASI</text>
+</svg>
