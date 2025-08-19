@@ -1,0 +1,10 @@
+<svg width="400" height="300" viewBox="0 0 400 300" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect x="0" y="0" width="400" height="300" fill="none"/>
+<rect x="100" y="100" width="80" height="80" rx="10" fill="#FFD700" stroke="#FF8C00" stroke-width="3"/>
+<rect x="220" y="100" width="80" height="80" rx="10" fill="#FFD700" stroke="#FF8C00" stroke-width="3"/>
+<path d="M140 140 C140 120, 260 120, 260 140 C260 160, 140 160, 140 140 Z" fill="#DC143C"/>
+<circle cx="140" cy="140" r="10" fill="#FFFFFF"/>
+<circle cx="260" cy="140" r="10" fill="#FFFFFF"/>
+<text x="200" y="210" font-family="Arial, sans-serif" font-size="25" font-weight="bold" fill="#FF8C00" text-anchor="middle">TAHU TEMPE</text>
+<text x="200" y="240" font-family="Arial, sans-serif" font-size="20" fill="#DC143C" text-anchor="middle">PENYET TERASI</text>
+</svg>
